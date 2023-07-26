@@ -1,0 +1,10 @@
+* clsql-local-time
+
+Allows local-time:timstamp objects in CLSQL models and queries
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/moderninterpreters/clsql-local-time.git   |
+| commit  | 3a6d1f9  |
+| systems | clsql-local-time |
+|---------+-------------------------------------------|
+
